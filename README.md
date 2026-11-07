@@ -287,7 +287,7 @@ The authors of this repository are not responsible for any consequences, damages
 ## License
 
 ---
-k
+
 [MIT](https://github.com/jundymek/free-proxy/blob/master/LICENSE)
 
 **Free Software!**
